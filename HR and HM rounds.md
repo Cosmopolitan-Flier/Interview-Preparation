@@ -1,7 +1,7 @@
 - Tell me about yourself.
 - Tell me about current company(team) and your role in it
 - What are you looking for in next company
-- Why do you want to leave your currrent company
+- Why do you want to leave your current company
 
 ## Amazon Leadership Principles
 
